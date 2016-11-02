@@ -13,7 +13,6 @@ eggs/
 lib64/
 parts/
 sdist/
-var/
 *.egg-info/
 .installed.cfg
 *.egg
@@ -57,7 +56,6 @@ tmp/
 test_case/
 release/
 upload/
-custom_settings.py
 docker-compose.yml
 *.zip
 rsyncd.passwd
